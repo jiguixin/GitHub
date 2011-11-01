@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<bonsai-outline version="4.1">
+	<head outline-id="8654799" category="Unfiled" item-count="48">
+		<categories>
+			<category name="Unfiled" id="0" modified="1"/>
+			<category name="Business" id="1" modified="1"/>
+			<category name="Personal" id="2" modified="1"/>
+		</categories>
+		<item-defaults type="todo" category="parent" priority="1" start-date="none" due-date="none" keywords="none" auto-todo-link="0"/>
+		<display show-completion-status="1" show-priority="0" show-selection-gutter="1" show-numbers="1" note-pane-percent="33" numbering="1.1.1.1.1.1.1.1." full-number-to="1" current-item="436789954" cursor="16">
+			<views current="Default">
+				<view name="Default">
+					<columns>
+						<column name="text" width="794"/>
+					</columns>
+				</view>
+			</views>
+			<custom-labels>
+				<custom-label name="Cost" modified="1"/>
+			</custom-labels>
+			<item-text-color current-color-set="none" color-completed="0" completed="#8C8C8C">
+			</item-text-color>
+		</display>
+		<rollup dates="1" status="1">
+			<rollup-custom enable="1" operation="sum" include="all" modified="0"/>
+		</rollup>
+		<sync-info generation="1" modified="1" category-modified="1">
+			<deleted-items>
+				<deleted-item id="434269646"/>
+				<deleted-item id="434269663"/>
+				<deleted-item id="434269722"/>
+				<deleted-item id="434269957"/>
+				<deleted-item id="435465172"/>
+				<deleted-item id="435465204"/>
+				<deleted-item id="435465211"/>
+				<deleted-item id="435465212"/>
+				<deleted-item id="435465220"/>
+				<deleted-item id="435465307"/>
+				<deleted-item id="435493554"/>
+				<deleted-item id="435545385"/>
+				<deleted-item id="435545386"/>
+				<deleted-item id="435545414"/>
+				<deleted-item id="435545449"/>
+				<deleted-item id="435545483"/>
+				<deleted-item id="436153603"/>
+				<deleted-item id="436153679"/>
+				<deleted-item id="436153729"/>
+				<deleted-item id="436511462"/>
+				<deleted-item id="436511472"/>
+				<deleted-item id="436528761"/>
+				<deleted-item id="436528789"/>
+				<deleted-item id="436528828"/>
+				<deleted-item id="436582729"/>
+				<deleted-item id="436583956"/>
+				<deleted-item id="436583976"/>
+				<deleted-item id="436583993"/>
+				<deleted-item id="436584012"/>
+				<deleted-item id="436584017"/>
+				<deleted-item id="436585800"/>
+				<deleted-item id="436585825"/>
+				<deleted-item id="436586009"/>
+				<deleted-item id="436760111"/>
+			</deleted-items>
+		</sync-info>
+	</head>
+	<items xml:space="preserve">
+		<item id="436582722" type="todo" priority="1" create-date="26 Oct 2011 08:58" last-modified="31 Oct 2011 17:07" percent-complete="16" pos-hint="2147483649" modified="#80101FC2">
+			<text>温江人口容量分布专题项目</text>
+			<items>
+				<item id="436760081" type="todo" priority="1" create-date="28 Oct 2011 10:14" last-modified="31 Oct 2011 17:07" percent-complete="100" completed-date="28 Oct 2011 00:00" pos-hint="2147483649" modified="#80131FE2">
+					<text>初步了解UPGIS的需求文档</text>
+				</item>
+				<item id="436760359" type="todo" priority="1" create-date="28 Oct 2011 10:19" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#100342">
+					<text>看温江区人口容量分布专题分析 相关文档 整理相关需求。</text>
+				</item>
+				<item id="436760393" type="todo" priority="1" create-date="28 Oct 2011 10:19" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#100762">
+					<text>打赵勇了解现有的UPGIS系统 (时间：2011.10.28  14:00)   预计30分钟</text>
+				</item>
+				<item id="436760480" type="todo" priority="1" create-date="28 Oct 2011 10:21" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#100342">
+					<text>找数据部了解需要系统生成那些专题图</text>
+				</item>
+				<item id="436760861" type="todo" priority="1" create-date="28 Oct 2011 10:27" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#100742">
+					<text>温江区人口容量分布专题 大功能分析步骤。</text>
+					<items>
+						<item id="436789912" type="todo" priority="1" create-date="28 Oct 2011 18:31" last-modified="01 Nov 2011 09:06" percent-complete="0" pos-hint="2147483649" modified="#80115BC2">
+							<text>原始基础数据录入</text>
+							<items>
+								<item id="436789954" type="todo" priority="1" create-date="28 Oct 2011 18:32" last-modified="01 Nov 2011 10:10" percent-complete="0" pos-hint="2147483649" modified="#80135FC2">
+									<text>平衡单元数据图层。</text>
+								</item>
+								<item id="436791007" type="todo" priority="1" create-date="28 Oct 2011 18:50" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#100142">
+									<text>对历年人口数据的录入。</text>
+								</item>
+								<item id="436791026" type="todo" priority="1" create-date="28 Oct 2011 18:50" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#100142">
+									<text>对历年公司数据的录入。</text>
+								</item>
+								<item id="436789995" type="todo" priority="1" create-date="28 Oct 2011 18:33" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#80135FC2">
+									<text>项目指标。</text>
+								</item>
+								<item id="436790025" type="todo" priority="1" create-date="28 Oct 2011 18:33" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#80135FC2">
+									<text>国际指标。</text>
+								</item>
+							</items>
+						</item>
+						<item id="436762397" type="todo" priority="1" create-date="28 Oct 2011 10:53" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#80135FC2" collapsed="1">
+							<text>基础数据管理模块</text>
+							<items>
+								<item id="436790849" type="todo" priority="1" create-date="28 Oct 2011 18:47" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#80135FC2">
+									<text>实现平衡单元管理。</text>
+								</item>
+								<item id="436790848" type="todo" priority="1" create-date="28 Oct 2011 18:47" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#80135FC2">
+									<text>实现人口信息的管理。</text>
+								</item>
+								<item id="436790445" type="todo" priority="1" create-date="28 Oct 2011 18:40" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#100142">
+									<text>实现公服数据的管理。</text>
+								</item>
+								<item id="436789222" type="todo" priority="1" create-date="28 Oct 2011 18:20" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#80135FC2">
+									<text>实现公服类型的管理。</text>
+								</item>
+								<item id="436790116" type="todo" priority="1" create-date="28 Oct 2011 18:35" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#80135FC2">
+									<text>实现国际城市人口指标的管理。</text>
+								</item>
+							</items>
+						</item>
+						<item id="436763523" type="todo" priority="1" create-date="28 Oct 2011 11:12" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#801353C2" collapsed="1">
+							<text>人口分析模块</text>
+							<items>
+								<item id="436763273" type="todo" priority="1" create-date="28 Oct 2011 11:07" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#80135FC2">
+									<text>实现现有人口指标分析。</text>
+								</item>
+								<item id="436762458" type="todo" priority="1" create-date="28 Oct 2011 10:54" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#80135FC2">
+									<text>实现人口趋势分析。</text>
+								</item>
+								<item id="436762512" type="todo" priority="1" create-date="28 Oct 2011 10:55" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#100342">
+									<text>与国内外典型城市人口指示对比分析。</text>
+								</item>
+							</items>
+						</item>
+						<item id="436785782" type="todo" priority="1" create-date="28 Oct 2011 17:23" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#80135FC2" collapsed="1">
+							<text>公服分析模块</text>
+							<items>
+								<item id="436786364" type="todo" priority="1" create-date="28 Oct 2011 17:32" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#80135FC2">
+								</item>
+							</items>
+						</item>
+						<item id="436791661" type="todo" priority="1" create-date="28 Oct 2011 19:01" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#100342" collapsed="1">
+							<text>专题图管理模块</text>
+							<items>
+								<item id="436791690" type="todo" priority="1" create-date="28 Oct 2011 19:01" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#100342">
+									<text>实现人口指标出图</text>
+									<items>
+										<item id="436792236" type="todo" priority="1" create-date="28 Oct 2011 19:10" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#80111BC2">
+											<text>对前几年人口数据出图</text>
+										</item>
+										<item id="436792280" type="todo" priority="1" create-date="28 Oct 2011 19:11" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#80135FC2">
+											<text>未来人口数据出图。</text>
+										</item>
+										<item id="436792269" type="todo" priority="1" create-date="28 Oct 2011 19:11" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#80125FC2">
+											<text>对已有</text>
+										</item>
+									</items>
+								</item>
+								<item id="436791848" type="todo" priority="1" create-date="28 Oct 2011 19:04" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#80135BC2">
+									<text>实现公服指标出图</text>
+									<items>
+										<item id="436792116" type="todo" priority="1" create-date="28 Oct 2011 19:08" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#80135FC2">
+											<text>对学校。</text>
+										</item>
+										<item id="436792174" type="todo" priority="1" create-date="28 Oct 2011 19:09" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#80135FC2">
+											<text>绿地。</text>
+										</item>
+										<item id="436792182" type="todo" priority="1" create-date="28 Oct 2011 19:09" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#80135FC2">
+											<text>商场。</text>
+										</item>
+										<item id="436792194" type="todo" priority="1" create-date="28 Oct 2011 19:09" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#80135FC2">
+											<text>幼儿园</text>
+										</item>
+									</items>
+								</item>
+							</items>
+						</item>
+						<item id="436762654" type="todo" priority="1" create-date="28 Oct 2011 10:57" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#100742" collapsed="1">
+							<text>注意事项：</text>
+							<items>
+								<item id="436764043" type="todo" priority="1" create-date="28 Oct 2011 11:20" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#100742">
+									<text>公服设施的数据形式：</text>
+									<items>
+										<item id="436764084" type="todo" priority="1" create-date="28 Oct 2011 11:21" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#100342">
+											<text>属性数据  </text>
+										</item>
+										<item id="436764090" type="todo" priority="1" create-date="28 Oct 2011 11:21" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#80135FE2">
+											<text>图形数据 </text>
+										</item>
+										<item id="436764092" type="todo" priority="1" create-date="28 Oct 2011 11:21" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#80135FE2">
+											<text>数据的类型(农贸市场，超市等待)</text>
+										</item>
+									</items>
+								</item>
+							</items>
+						</item>
+						<item id="436763264" type="todo" priority="1" create-date="28 Oct 2011 11:07" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#80135FC2" collapsed="1">
+							<text>不明确的地方：</text>
+							<items>
+								<item id="436764138" type="todo" priority="1" create-date="28 Oct 2011 11:22" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#803353C2">
+									<text>将人口、公服设施数据入库植入方案审批流程管理</text>
+									<note>目录UPGIS中已经有一个“案审批流程”这样的功能模块吗？</note>
+								</item>
+								<item id="436764243" type="todo" priority="1" create-date="28 Oct 2011 11:24" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#80135FC2">
+									<text>具体有那些专题图。</text>
+								</item>
+								<item id="436764272" type="todo" priority="1" create-date="28 Oct 2011 11:24" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#80135FC2">
+									<text>专题图中需要有那些内容。</text>
+								</item>
+								<item id="436764294" type="todo" priority="1" create-date="28 Oct 2011 11:24" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#80135FC2">
+									<text>平衡单元的划定问题。</text>
+								</item>
+								<item id="436779639" type="todo" priority="1" create-date="28 Oct 2011 15:40" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#80115BC2">
+									<text>以后后该功能放到UPGIS的什么地方。</text>
+								</item>
+							</items>
+						</item>
+					</items>
+				</item>
+				<item id="436787098" type="todo" priority="1" create-date="28 Oct 2011 17:44" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#80135FC2" collapsed="1">
+					<text>系统实现详细步骤：</text>
+					<items>
+						<item id="436787132" type="todo" priority="1" create-date="28 Oct 2011 17:45" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#1357C2">
+							<text>通过对温江区整体地形结构所绘制各平衡单元界限的CAD图转换为矢量数据导入到目前的UPGIS空间数据库中。</text>
+						</item>
+						<item id="436787624" type="todo" priority="1" create-date="28 Oct 2011 17:53" last-modified="31 Oct 2011 17:07" percent-complete="0" pos-hint="2147483649" modified="#80135FC2">
+							<text>开发一个视图界面就于展示整个温江区的平衡单远。</text>
+						</item>
+					</items>
+				</item>
+			</items>
+		</item>
+	</items>
+</bonsai-outline>
