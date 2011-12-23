@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="GB2312" ?>
 <bonsai-outline version="4.1">
-	<head outline-id="8654801" category="Business" item-count="124">
+	<head outline-id="8654801" category="Business" item-count="127">
 		<categories>
 			<category name="Unfiled" id="0" modified="1"/>
 			<category name="Business" id="1" modified="1"/>
 			<category name="Personal" id="2" modified="1"/>
 		</categories>
 		<item-defaults type="todo" category="parent" priority="1" start-date="none" due-date="none" keywords="none" auto-todo-link="0"/>
-		<display show-completion-status="1" show-priority="0" show-selection-gutter="1" show-numbers="1" note-pane-percent="47" numbering="1.1.1.1.1.1.1.1." full-number-to="1" current-item="438415777" cursor="20">
+		<display show-completion-status="1" show-priority="0" show-selection-gutter="1" show-numbers="1" note-pane-percent="42" numbering="1.1.1.1.1.1.1.1." full-number-to="1" current-item="440245135" cursor="22">
 			<views current="Default">
 				<view name="Default">
 					<columns>
@@ -64,7 +64,7 @@
 		</sync-info>
 	</head>
 	<items xml:space="preserve">
-		<item id="436582722" type="todo" priority="1" create-date="26 Oct 2011 08:58" last-modified="16 Nov 2011 14:27" percent-complete="16" pos-hint="2147483649" modified="#80101FC2">
+		<item id="436582722" type="todo" priority="1" create-date="26 Oct 2011 08:58" last-modified="07 Dec 2011 18:20" percent-complete="8" pos-hint="2147483649" modified="#80101FC2">
 			<text>温江人口容量分布专题项目</text>
 			<items>
 				<item id="438313655" type="todo" priority="1" create-date="15 Nov 2011 09:47" last-modified="15 Nov 2011 09:47" percent-complete="20" pos-hint="2147483649" modified="#80135FE2" collapsed="1">
@@ -300,7 +300,7 @@
 						</item>
 					</items>
 				</item>
-				<item id="438313476" type="todo" priority="1" create-date="15 Nov 2011 09:44" last-modified="16 Nov 2011 14:27" percent-complete="12" pos-hint="2147483649" modified="#80135FC2">
+				<item id="438313476" type="todo" priority="1" create-date="15 Nov 2011 09:44" last-modified="07 Dec 2011 18:19" percent-complete="12" pos-hint="2147483649" modified="#80135FC2">
 					<text>（2011.11.10）实现温江人口功能模块</text>
 					<items>
 						<item id="438313112" type="todo" priority="1" create-date="15 Nov 2011 09:38" last-modified="15 Nov 2011 09:47" percent-complete="0" pos-hint="2147483649" modified="#80101FC2" collapsed="1">
@@ -390,7 +390,7 @@
 								</item>
 							</items>
 						</item>
-						<item id="436787098" type="todo" priority="1" create-date="28 Oct 2011 17:44" last-modified="15 Nov 2011 09:58" percent-complete="0" pos-hint="2147483649" modified="#80135FC2">
+						<item id="436787098" type="todo" priority="1" create-date="28 Oct 2011 17:44" last-modified="15 Nov 2011 09:58" percent-complete="0" pos-hint="2147483649" modified="#80135FC2" collapsed="1">
 							<text>系统实现详细步骤：</text>
 							<items>
 								<item id="436787132" type="todo" priority="1" create-date="28 Oct 2011 17:45" last-modified="15 Nov 2011 09:58" percent-complete="0" pos-hint="2147483649" modified="#1357C2">
@@ -475,7 +475,7 @@
 								</item>
 							</items>
 						</item>
-						<item id="438344904" type="todo" priority="1" create-date="15 Nov 2011 18:28" last-modified="16 Nov 2011 14:27" percent-complete="50" pos-hint="2147483649" modified="#80135FC2">
+						<item id="438344904" type="todo" priority="1" create-date="15 Nov 2011 18:28" last-modified="16 Nov 2011 14:27" percent-complete="50" pos-hint="2147483649" modified="#80135FC2" collapsed="1">
 							<text>实现步骤</text>
 							<items>
 								<item id="438344914" type="todo" priority="1" create-date="15 Nov 2011 18:28" last-modified="15 Nov 2011 18:28" percent-complete="0" pos-hint="2147483649" modified="#80135FC2" collapsed="1">
@@ -496,6 +496,17 @@
 									</items>
 								</item>
 							</items>
+						</item>
+					</items>
+				</item>
+				<item id="440245135" type="todo" priority="1" create-date="07 Dec 2011 18:18" last-modified="07 Dec 2011 18:20" percent-complete="0" pos-hint="2147483649" modified="#80121FC2">
+					<text>2011.12.8 号完成的事。</text>
+					<items>
+						<item id="440245219" type="todo" priority="1" create-date="07 Dec 2011 18:20" last-modified="07 Dec 2011 18:21" percent-complete="0" pos-hint="2147483649" modified="#80135BC2">
+							<text>在平衡单元中增加历史人数。（数据库，其它数据访问层代码）</text>
+						</item>
+						<item id="440245283" type="todo" priority="1" create-date="07 Dec 2011 18:21" last-modified="07 Dec 2011 18:25" percent-complete="0" pos-hint="2147483649" modified="#80135FC2">
+							<text>在公服中增加同类级比较。</text>
 						</item>
 					</items>
 				</item>
