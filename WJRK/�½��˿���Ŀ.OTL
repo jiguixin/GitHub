@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="GB2312" ?>
 <bonsai-outline version="4.1">
-	<head outline-id="8654801" category="Business" item-count="127">
+	<head outline-id="8654801" category="Business" item-count="158">
 		<categories>
 			<category name="Unfiled" id="0" modified="1"/>
 			<category name="Business" id="1" modified="1"/>
 			<category name="Personal" id="2" modified="1"/>
 		</categories>
 		<item-defaults type="todo" category="parent" priority="1" start-date="none" due-date="none" keywords="none" auto-todo-link="0"/>
-		<display show-completion-status="1" show-priority="0" show-selection-gutter="1" show-numbers="1" note-pane-percent="42" numbering="1.1.1.1.1.1.1.1." full-number-to="1" current-item="440245135" cursor="22">
+		<display show-completion-status="1" show-priority="0" show-selection-gutter="1" show-numbers="1" note-pane-percent="20" numbering="1.1.1.1.1.1.1.1." full-number-to="1" current-item="445257269" cursor="51">
 			<views current="Default">
 				<view name="Default">
 					<columns>
@@ -64,7 +64,7 @@
 		</sync-info>
 	</head>
 	<items xml:space="preserve">
-		<item id="436582722" type="todo" priority="1" create-date="26 Oct 2011 08:58" last-modified="07 Dec 2011 18:20" percent-complete="8" pos-hint="2147483649" modified="#80101FC2">
+		<item id="436582722" type="todo" priority="1" create-date="26 Oct 2011 08:58" last-modified="11 Jan 2012 16:44" percent-complete="8" pos-hint="2147483649" modified="#80101FC2" collapsed="1">
 			<text>温江人口容量分布专题项目</text>
 			<items>
 				<item id="438313655" type="todo" priority="1" create-date="15 Nov 2011 09:47" last-modified="15 Nov 2011 09:47" percent-complete="20" pos-hint="2147483649" modified="#80135FE2" collapsed="1">
@@ -499,7 +499,7 @@
 						</item>
 					</items>
 				</item>
-				<item id="440245135" type="todo" priority="1" create-date="07 Dec 2011 18:18" last-modified="07 Dec 2011 18:20" percent-complete="0" pos-hint="2147483649" modified="#80121FC2">
+				<item id="440245135" type="todo" priority="1" create-date="07 Dec 2011 18:18" last-modified="07 Dec 2011 18:20" percent-complete="0" pos-hint="2147483649" modified="#80121FC2" collapsed="1">
 					<text>2011.12.8 号完成的事。</text>
 					<items>
 						<item id="440245219" type="todo" priority="1" create-date="07 Dec 2011 18:20" last-modified="07 Dec 2011 18:21" percent-complete="0" pos-hint="2147483649" modified="#80135BC2">
@@ -507,6 +507,124 @@
 						</item>
 						<item id="440245283" type="todo" priority="1" create-date="07 Dec 2011 18:21" last-modified="07 Dec 2011 18:25" percent-complete="0" pos-hint="2147483649" modified="#80135FC2">
 							<text>在公服中增加同类级比较。</text>
+						</item>
+					</items>
+				</item>
+				<item id="441630438" type="todo" priority="1" create-date="23 Dec 2011 19:07" last-modified="23 Dec 2011 19:07" percent-complete="0" pos-hint="2147483649" modified="#80131FC2">
+					<text>2011.12.23 星期天要完成的事</text>
+					<items>
+						<item id="441630452" type="todo" priority="1" create-date="23 Dec 2011 19:07" last-modified="23 Dec 2011 19:09" percent-complete="0" pos-hint="2147483649" modified="#101BC2">
+							<text>把平衡单元的文本显示信息按总显示信息把总的信息以文本的形式用文字展示出来。</text>
+						</item>
+					</items>
+				</item>
+			</items>
+		</item>
+		<item id="443238288" type="todo" priority="1" create-date="11 Jan 2012 09:44" last-modified="03 Feb 2012 18:32" percent-complete="5" pos-hint="2147483649" modified="#80115FC2">
+			<text>2012年人口公服工作</text>
+			<items>
+				<item id="443238335" type="todo" priority="1" create-date="11 Jan 2012 09:45" last-modified="30 Jan 2012 09:09" percent-complete="16" pos-hint="2147483649" modified="#80135FC2">
+					<text>人口需求</text>
+					<items>
+						<item id="443238353" type="todo" priority="1" create-date="11 Jan 2012 09:45" last-modified="30 Jan 2012 09:10" percent-complete="100" completed-date="30 Jan 2012 00:00" pos-hint="2147483649" modified="#80335FE2">
+							<text>在“平衡单元”图层中属性表增加现在BalanceUnit的相关数据。</text>
+							<note>如，规划人口，现有人口等。</note>
+						</item>
+						<item id="443238764" type="todo" priority="1" create-date="11 Jan 2012 09:52" last-modified="30 Jan 2012 14:45" percent-complete="0" pos-hint="2147483649" modified="#80335FC2">
+							<text>在案件办结时或者是在画完红线时重新计算该平衡单元的相关数据。</text>
+							<note>在办结时根据该案件查看其项目中是否有用地证，如果有-&gt;提取相应的用地红线--》在根据用地红线查找出是那一个平衡单元--》在查询出整个平衡单元中的所有用地红线。&#x0a;&#x0a;此处要考虑 “一个项目有几根用地红线的情况”。&#x0a;&#x0a;然后参考：桌面\2011-1-9新展示模型\通过用地红线+管理单元得到相应数据.bmp</note>
+						</item>
+						<item id="443239239" type="todo" priority="1" create-date="11 Jan 2012 10:00" last-modified="11 Jan 2012 10:17" percent-complete="0" pos-hint="2147483649" modified="#80335FC2">
+							<text>如果在一个项目有多个方案审查那么将各方案审查累加计算人口容量。</text>
+							<note>因为一个项目可能存在多个方案审查。</note>
+						</item>
+						<item id="443239621" type="todo" priority="1" create-date="11 Jan 2012 10:07" last-modified="11 Jan 2012 10:19" percent-complete="0" pos-hint="2147483649" modified="#80135FC2">
+							<text>在人口管理类别中增加以下功能</text>
+							<items>
+								<item id="443240394" type="todo" priority="1" create-date="11 Jan 2012 10:19" last-modified="11 Jan 2012 10:21" percent-complete="0" pos-hint="2147483649" modified="#80135FC2">
+									<text>智能分析</text>
+									<items>
+										<item id="443240480" type="todo" priority="1" create-date="11 Jan 2012 10:21" last-modified="11 Jan 2012 10:24" percent-complete="0" pos-hint="2147483649" modified="#80135FC2">
+											<text>人口柱状图（显示项:现有人口容量，规划人口容量，剩余可容纳人口容量）</text>
+										</item>
+										<item id="443240502" type="todo" priority="1" create-date="11 Jan 2012 10:21" last-modified="11 Jan 2012 10:24" percent-complete="0" pos-hint="2147483649" modified="#80335FC2">
+											<text>强度柱状图(显示项:已批平均强度，剩余平均强度)</text>
+											<note>其实就是容积率。</note>
+										</item>
+										<item id="443263307" type="todo" priority="1" create-date="11 Jan 2012 16:41" last-modified="11 Jan 2012 16:44" percent-complete="0" pos-hint="2147483649" modified="#80135FC2">
+											<text>人口密度柱状图（其它城市对比）</text>
+										</item>
+									</items>
+								</item>
+								<item id="443263486" type="todo" priority="1" create-date="11 Jan 2012 16:44" last-modified="30 Jan 2012 17:40" percent-complete="0" pos-hint="2147483649" modified="#300302">
+									<text>调整分析 </text>
+									<note>\桌面\2011-1-9新展示模型\人口调整分析界面.bmml&#x0a;&#x0a;计算公式：调整住宅面积=规划剩余住宅用地面积*规划剩余土地平均容积率/拟调整平均容积率。&#x0a;</note>
+								</item>
+								<item id="443263495" type="todo" priority="1" create-date="11 Jan 2012 16:44" last-modified="11 Jan 2012 16:44" percent-complete="0" pos-hint="2147483649" modified="#80135FC2">
+								</item>
+							</items>
+						</item>
+						<item id="443265041" type="todo" priority="1" create-date="11 Jan 2012 17:10" last-modified="11 Jan 2012 17:29" percent-complete="0" pos-hint="2147483649" modified="#80335FC2">
+							<text>修改得到现有人口公式</text>
+							<note>现有人口=方案审查中的建筑面积/人均居住面积。</note>
+						</item>
+						<item id="443266117" type="todo" priority="1" create-date="11 Jan 2012 17:28" last-modified="11 Jan 2012 17:30" percent-complete="0" pos-hint="2147483649" modified="#80135FC2">
+							<text>美化出图界面。</text>
+						</item>
+					</items>
+				</item>
+				<item id="443266209" type="todo" priority="1" create-date="11 Jan 2012 17:30" last-modified="30 Jan 2012 15:10" percent-complete="4" pos-hint="2147483649" modified="#80135FC2" collapsed="1">
+					<text>公服需求</text>
+					<items>
+						<item id="443266217" type="todo" priority="1" create-date="11 Jan 2012 17:30" last-modified="30 Jan 2012 15:10" percent-complete="25" pos-hint="2147483649" modified="#80135FC2">
+							<text>分析界面展示结果分为：</text>
+							<items>
+								<item id="443266278" type="todo" priority="1" create-date="11 Jan 2012 17:31" last-modified="30 Jan 2012 15:17" percent-complete="100" completed-date="30 Jan 2012 00:00" pos-hint="2147483649" modified="#80135FE2">
+									<text>规划。(通过管理单元的规划人口来算出个数)</text>
+								</item>
+								<item id="443266284" type="todo" priority="1" create-date="11 Jan 2012 17:31" last-modified="30 Jan 2012 11:49" percent-complete="0" pos-hint="2147483649" modified="#80131FC2">
+									<text>近期建设。(通过管理单元的现有人口计算近期建设)</text>
+								</item>
+								<item id="443266289" type="todo" priority="1" create-date="11 Jan 2012 17:31" last-modified="30 Jan 2012 11:54" percent-complete="0" pos-hint="2147483649" modified="#80135FC2">
+									<text>年度实施。（用年度计划的数据）</text>
+								</item>
+								<item id="443266300" type="todo" priority="1" create-date="11 Jan 2012 17:31" last-modified="30 Jan 2012 11:54" percent-complete="0" pos-hint="2147483649" modified="#101BC2">
+									<text>现有。（实现的公服数量）</text>
+								</item>
+							</items>
+						</item>
+						<item id="443266313" type="todo" priority="1" create-date="11 Jan 2012 17:31" last-modified="30 Jan 2012 15:10" percent-complete="0" pos-hint="2147483649" modified="#321BC2">
+							<text>增加千人指标功能。</text>
+							<note>学校：桌数&#x0a;医院：床数&#x0a;其它：建设面积</note>
+						</item>
+						<item id="443266408" type="todo" priority="1" create-date="11 Jan 2012 17:33" last-modified="11 Jan 2012 17:39" percent-complete="0" pos-hint="2147483649" modified="#80335FC2">
+							<text>增加曲线分析功能。</text>
+							<note>初步暂定以更新时间为准。</note>
+						</item>
+						<item id="443267074" type="todo" priority="1" create-date="11 Jan 2012 17:44" last-modified="11 Jan 2012 17:44" percent-complete="0" pos-hint="2147483649" modified="#80135FC2">
+							<text>增加公服管理界面。</text>
+						</item>
+						<item id="443266495" type="todo" priority="1" create-date="11 Jan 2012 17:34" last-modified="11 Jan 2012 17:53" percent-complete="0" pos-hint="2147483649" modified="#80335FC2">
+							<text>增加公服结果管理界面。</text>
+							<note>公服结果是显示所有公服数据。</note>
+						</item>
+						<item id="443266885" type="todo" priority="1" create-date="11 Jan 2012 17:41" last-modified="11 Jan 2012 17:48" percent-complete="0" pos-hint="2147483649" modified="#80335FC2">
+							<text>增加公服年度计划管理界面。</text>
+							<note>年度计算管理界面，是公服科每年都会导入一批年度实施报告。是以SHP的形式。导入到相应的图层中。</note>
+						</item>
+					</items>
+				</item>
+				<item id="445257148" type="todo" priority="1" create-date="03 Feb 2012 18:32" last-modified="03 Feb 2012 18:32" percent-complete="0" pos-hint="2147483649" modified="#80135FC2">
+					<text>2012.2.5 号要做的工作</text>
+					<items>
+						<item id="445257173" type="todo" priority="1" create-date="03 Feb 2012 18:32" last-modified="03 Feb 2012 18:33" percent-complete="0" pos-hint="2147483649" modified="#80115BC2">
+							<text>修改MODEL层，DAL 增加BU_CURRATIO。</text>
+						</item>
+						<item id="445257220" type="todo" priority="1" create-date="03 Feb 2012 18:33" last-modified="03 Feb 2012 18:34" percent-complete="0" pos-hint="2147483649" modified="#80135FC2">
+							<text>让江飞重新修改管理单元图层的备注，和增加BU_CURRATIO列</text>
+						</item>
+						<item id="445257269" type="todo" priority="1" create-date="03 Feb 2012 18:34" last-modified="03 Feb 2012 18:35" percent-complete="0" pos-hint="2147483649" modified="#80125FC2">
+							<text>做完“构造要修改的容积率数据”后面工作，代码 572 行</text>
 						</item>
 					</items>
 				</item>
